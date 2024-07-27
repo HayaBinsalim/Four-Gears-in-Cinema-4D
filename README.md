@@ -1,7 +1,7 @@
 # Four-Gears-in-Cinema-4D
 
 # Description 
-In this project, 4 gears are connected to move together using Cinema 4D. The total ratio of the 4 gears is 18. 
+In this project, 4 gears are connected to move together using Cinema 4D. The total ratio of the 4 gears is 18:1. 
 
 # Steps 
 ## 1. Choosing the number of teeth in each gear 
