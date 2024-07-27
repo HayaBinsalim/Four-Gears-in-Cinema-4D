@@ -39,3 +39,8 @@ The final result of the gears should look similar to the ones in the figure belo
 ![image](https://github.com/user-attachments/assets/c0268492-a427-4a1a-a6b4-5d62fa40a69c)
 <br />
 ![image](https://github.com/user-attachments/assets/8e155a50-c40e-4f6c-a035-c996e9582d9f)
+
+<br /> 
+You can change the colours of the gears to make them clearer maybe, or more "viewable" than all having the same colour with the background. 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/011813e9-f17a-4d85-99d6-118d73bd50e5">
+
